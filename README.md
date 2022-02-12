@@ -1,0 +1,2 @@
+# bot_2022_Winter_Olympics
+基于botoy和OPQBot的2022冬奥会插件
